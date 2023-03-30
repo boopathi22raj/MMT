@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jenkins.newproject_jk.Launch
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.661 s - in jenkins.newproject_jk.Launch

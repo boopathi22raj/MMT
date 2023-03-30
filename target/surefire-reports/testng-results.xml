@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-30T13:35:18 IST" name="Surefire suite" finished-at="2023-03-30T13:35:21 IST" duration-ms="3202">
+    <groups>
+    </groups>
+    <test started-at="2023-03-30T13:35:18 IST" name="Surefire test" finished-at="2023-03-30T13:35:21 IST" duration-ms="3202">
+      <class name="jenkins.newproject_jk.Launch">
+        <test-method signature="browserLaunch()[pri:0, instance:jenkins.newproject_jk.Launch@157853da]" started-at="2023-03-30T13:35:18 IST" name="browserLaunch" finished-at="2023-03-30T13:35:21 IST" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+      </class> <!-- jenkins.newproject_jk.Launch -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
